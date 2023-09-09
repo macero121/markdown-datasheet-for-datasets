@@ -1,6 +1,6 @@
 # Datasheet: *Your Dataset Name Here*
 
-Author: *Your Name Here*
+Author: Cameron Kurtz
 
 Organization: *Your Organization Here*
 
